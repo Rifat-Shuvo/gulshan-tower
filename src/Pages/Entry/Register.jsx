@@ -19,7 +19,7 @@ const Register = () => {
         const photo = form.photo.value
         const email = form.email.value
         const password = form.password.value
-        // console.log(name,photo,email,password);
+        console.log(name,photo,email,password);
         ///^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)[a-zA-Z\d]{6,}$/
         if (!/^(?=.*?[A-Z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-<>]).{6,}$/.test(password)) {
             Swal.fire({
