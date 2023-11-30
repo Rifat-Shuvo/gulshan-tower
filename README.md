@@ -1,6 +1,7 @@
 # some of This project features
 
-# Are you a building owner?? if the answer is yes, this website is just for you. This website is designed to maintain a apartment from remotely.
+# Are you a building owner?? if the answer is yes, this website is just for you. This website is designed to maintain a apartment from remotely.Some of the feature is following:
+*****
 
 
 # React + Vite
