@@ -1,11 +1,19 @@
-# some of This project features
+# some of This project features (a-12)
 
 # Are you a building owner?? if the answer is yes, this website is just for you. This website is designed to maintain a apartment from remotely.Some of the feature is following:
 *** It is super easy and user friendly UI.
+
 *** There is no complexity about the source code.
+
 *** As the entire source code have super readability, So, all type of developer can understand easily.
+
 *** The entire website Ui is super friendly, Any user can easily understood about this.
+
 *** As no complexity in the code is used, and the entire code is dynamic and easily scalable. that's why the maintainance cost is very cheap.
+
+*** There have three roles of a user. (1.Regestered user. 2.Members of the community & Admin) 
+
+***Also, There have a specific roles and previledges of this three types of users.
 
 # live link: https://practise-da4fb.web.app/
 
